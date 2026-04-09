@@ -1,6 +1,7 @@
 {
   "name": "fix-electrical-api",
   "version": "1.0.0",
+  "description": "Electrical problem diagnosis API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
